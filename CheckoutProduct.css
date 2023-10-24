@@ -1,0 +1,27 @@
+.CheckoutProduct{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.checkP_info{
+    padding: 20px;
+}
+.checkP_info>button{
+    background: #f0c14b;
+    border:1px solid;
+    margin-top: 10px;
+    border-color: orange;
+    color: #111;
+    width: 150px;
+}
+.checkP_image{
+    object-fit: contain;
+    width: 180px;
+    height: 180px;
+
+}
+.checkP_ratings{
+    font-size: 17px;
+    font-weight: 800;
+    display: flex;
+}
